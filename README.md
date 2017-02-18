@@ -1,7 +1,8 @@
 # gulptask
 
 Steps to use gulp for bundling / minification - windows / linux
-1) Install **node** 
+
+1) Install **node** and **npm** 
 
 2) Install gulp-cli globally 
 ```
